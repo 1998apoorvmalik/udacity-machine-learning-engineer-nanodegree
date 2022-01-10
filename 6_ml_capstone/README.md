@@ -2,7 +2,7 @@
 
 This repository contains the final capstone project for the [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) program.
 
-In this project we have trained a Deep Neural Network to play the classic game Atari Breakout. The neural network model is trained with the help of DQN algorithm.
+In this project I have trained a Deep Neural Network to play the classic game Atari Breakout. The neural network model is trained with the help of DQN algorithm.
 
 The jupyter notebook [Breakout DQN](Breakout%20DQN) contains the training process and the model's evaluation.
 
@@ -17,6 +17,17 @@ Run this code in the terminal to open the jupyter notebook containing the projec
 `jupyter notebook Breakout\ DQN.ipynb`
 
 Alternatively, you can view the HTML version of this notebook here: [Breakout DQN.html](Breakout%20DQN.html)
+
+## Capstone Project Highlights
+
+This project is designed to prepare you for delivering a polished, end-to-end solution report of a real-world problem in a field of interest. When developing new technology, or deriving adaptations of previous technology, properly documenting your process is critical for both validating and replicating your results.
+
+Things you will learn by completing this project:
+
+- How to research and investigate a real-world problem of interest.
+- How to accurately apply specific machine learning algorithms and techniques.
+- How to properly analyze and visualize your data and results for validity.
+- How to document and write a report of your work.
 
 ## Directory Description
 

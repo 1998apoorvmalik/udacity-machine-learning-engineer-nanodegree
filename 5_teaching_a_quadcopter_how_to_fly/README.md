@@ -22,6 +22,12 @@ Quadcopter flight trajectory
 Reward vs Time chart
 ![](RewardVsTime.gif)
 
+## Evaluation
+
+Your project will be reviewed by a Udacity reviewer against the project [rubric](https://review.udacity.com/#!/rubrics/1189/view). Review this rubric thoroughly, and self-evaluate your project before submission. All criteria found in the rubric must meet specifications for you to pass.
+
+In this project, you will design your own reinforcement learning task and an agent to complete it. Note that getting a reinforcement learning agent to learn what you actually want it to learn can be hard, and very time consuming. For this project, we strongly encourage you to take the time to tweak your task and agent until your agent is able to demonstrate that it has learned your chosen task, but this is not necessary to complete the project. As long as you take the time to describe many attempts at specifying a reasonable reward function and a well-designed agent with well-informed hyperparameters, this is enough to pass the project.
+
 ## Project Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
