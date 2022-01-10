@@ -1,0 +1,14 @@
+(AIML) apoorvmalik@Apoorvs-MacBook-Pro Dog Breed Classifier % python test_model.py
+Using TensorFlow backend.
+[INFO] loading CNN Model
+2020-06-12 23:43:33.422894: I tensorflow/core/platform/cpu_feature_guard.cc:143] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2020-06-12 23:43:33.441303: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x7ff02e65c970 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-06-12 23:43:33.441329: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+
+[INFO] Loading and Pre-processing images...
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 836/836 [00:05<00:00, 141.58it/s]
+[INFO] This may take some time...
+[INFO] Label names are: []
+[INFO] Loaded model from the disk.
+Test accuracy: 87.08%
+(AIML) apoorvmalik@Apoorvs-MacBook-Pro Dog Breed Classifier % 
