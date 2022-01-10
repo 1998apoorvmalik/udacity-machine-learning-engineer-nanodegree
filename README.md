@@ -1,6 +1,6 @@
 # Udacity Machine Learning Engineer Nanodegree
 
-This repository contains all my nanodegree's project work. I Graduated from this program in 2018.
+This repository contains all my nanodegree's project work. I graduated from this program in 2018.
 
 ## Certificate
 
